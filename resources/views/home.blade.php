@@ -24,17 +24,16 @@
         <nav class="border border-white h-[5rem] my-5 mx-[3rem] rounded-full">
             <div class="mt-5">
                 <h1 class="text-[#51E5ED] px-[2rem] text-2xl font-mono"><a href="#">DREW</a></h1>
-
                 <ul class="text-white flex space-x-[5rem] justify-center -mt-6">
                     <li><a href="" class="hover:text-white hover:underline">Home</a></li>
                     <li><a href="" class="hover:text-white hover:underline">About me</a></li>
                     <li><a href="" class="hover:text-white hover:underline">Projects</a></li>
                     <li><a href="" class="hover:text-white hover:underline ">Contact</a></li>
                 </ul>
+                
             </div>
         </nav>
 
-        
-
+    
     </body>
 </html>
