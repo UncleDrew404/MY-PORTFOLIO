@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Drew | Home</title>
+        <title>Drew | Profile</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -21,19 +21,21 @@
     </head>
     <body class="bg-[#111211]">
         
-        <nav class="border border-white h-[5rem] my-5 mx-[3rem] rounded-full">
+        <nav class="border border-white h-[5rem] w-auto my-5 mx-[3rem] rounded-full">
             <div class="mt-5">
-                <h1 class="text-[#51E5ED] px-[2rem] text-2xl font-mono"><a href="#">DREW</a></h1>
-                <ul class="text-white flex space-x-[5rem] justify-center -mt-6">
-                    <li><a href="" class="hover:text-white hover:underline">Home</a></li>
+                <h1 class="text-[#51E5ED] px-[2rem] text-2xl font-audiowide"><a href="#">DREWS</a></h1>
+                <ul class="text-white flex space-x-[5rem] justify-center -mt-6 font-roboto">
+                    <li><a href="" class="hover:text-white hover:underline">Profile</a></li>
                     <li><a href="" class="hover:text-white hover:underline">About me</a></li>
                     <li><a href="" class="hover:text-white hover:underline">Projects</a></li>
                     <li><a href="" class="hover:text-white hover:underline ">Contact</a></li>
                 </ul>
-                
             </div>
         </nav>
 
-    
+       
+        
+
+       
     </body>
 </html>

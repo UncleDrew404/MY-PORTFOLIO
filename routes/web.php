@@ -7,4 +7,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', [UserController::class, 'home']);
+Route::get('/profile', [UserController::class, 'profile']);
