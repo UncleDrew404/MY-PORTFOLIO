@@ -23,7 +23,7 @@
         
         <nav class="border border-white h-[5rem] w-auto my-5 mx-[3rem] rounded-full">
             <div class="mt-5">
-                <h1 class="text-[#51E5ED] px-[2rem] text-2xl font-audiowide"><a href="#">DREWS</a></h1>
+                <h1 class="text-[#51E5ED] px-[2rem] text-2xl font-audiowide"><a href="#">DREW</a></h1>
                 <ul class="text-white flex space-x-[5rem] justify-center -mt-6 font-roboto">
                     <li><a href="" class="hover:text-white hover:underline">Profile</a></li>
                     <li><a href="" class="hover:text-white hover:underline">About me</a></li>
